@@ -1,0 +1,40 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+.springBeans
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Test files
+
+accessingdataneo4j.db
+dependency-reduced-pom.xml
+README.html
+
+node
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+
+package-lock.json
